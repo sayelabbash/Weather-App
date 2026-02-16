@@ -1,4 +1,8 @@
 🌦 Weather Application – Spring Boot + Forecast API
+## 📸 Screenshots
+
+![Weather App UI](screenshots/weather-app.png)
+
 📌 Overview
 
 Weather Application is a full-stack REST API project built using Spring Boot that consumes an external Weather API and provides:
